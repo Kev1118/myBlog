@@ -1,0 +1,12 @@
+#notfound-site{
+    background: url(/assets/image/background-750.jpg) fixed no-repeat !important;
+    background-size: cover !important;
+    min-height: 110vh !important;
+    display: flex;
+    justify-content: center !important;
+ }
+ .custom-container{
+    padding-top: 20%;
+    text-align: center;
+    color: white;
+ }

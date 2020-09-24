@@ -1,0 +1,45 @@
+#footer{
+    background: #111;
+    padding: 1rem 1rem;
+}
+.footer-title{
+    color: white;
+}
+p{
+    color:rgb(148, 140, 140);
+}
+input{
+    padding: .3rem .7rem;
+}
+span{
+    background-color: skyblue;
+    padding: .5rem .7rem;
+    cursor: pointer;
+}
+#footer{
+    position: relative;
+}
+footer#footer .instagram div > img{
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin: 0;
+}
+.socials i{
+    color:white;
+    padding: 0 .4rem;
+    cursor: pointer;
+}
+.socials i:hover{
+    color: skyblue;
+}
+.move-up{
+    position: absolute;
+    right: 6%;
+    top: 50%;
+    color:rgb(148, 140, 140);
+}
+.move-up:hover{
+    color: rgb(43, 103, 233);
+    cursor: pointer;
+}

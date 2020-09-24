@@ -1,0 +1,4 @@
+.main-container{
+    background: url(/assets/image/background-1200x400.jpg) fixed no-repeat !important;
+    background-size: cover;
+}

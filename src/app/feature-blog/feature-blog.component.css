@@ -1,0 +1,37 @@
+
+#feature-blog{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background-color: rgb(230, 230, 230);
+}
+.feature-container{
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    background-color: white !important;
+}
+.feature-btn button{
+    border:none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    border: 1px solid white;
+}
+.feature-btn button:hover{
+    color: #289de0;
+    background-color: transparent;
+    border: 1px solid  #289de0;
+}
+.feature-content{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.feature-content .feature-title{
+    color: rgb(56, 56, 56);
+    font-family: 'Roboto', sans-serif;
+}
+.feature-content .feature-details{
+    color: rgb(56, 56, 56);
+    font-size: 14px;
+}
+.feature-btn{
+    padding-bottom: 10px;
+}

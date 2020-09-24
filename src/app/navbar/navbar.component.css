@@ -1,0 +1,28 @@
+.custom-nav{
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+    background: #303030 !important;
+}
+.custom-nav .navbar-brand,
+.custom-nav .collapse .navbar-nav .nav-item .nav-link{
+    color: white !important;
+}
+.custom-nav .collapse .navbar-nav .nav-item{
+    margin: 0px 10px;
+}
+.custom-nav .collapse .navbar-nav .nav-item .nav-link.active{
+    border-bottom: 2px solid white;
+}
+.custom-nav .collapse .navbar-nav .nav-item .nav-link:hover{
+    color: #d1cece !important;
+}
+.login{
+    display: none;
+    flex-direction: row;
+}
+.login a{
+    margin-left: 3px;
+}
+
+@media screen and (max-width: 991px){
+   
+}

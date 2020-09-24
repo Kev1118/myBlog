@@ -1,0 +1,15 @@
+
+.blog-container,
+.sign-up-container,
+.comment-container {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    padding: 10px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.blog-post-details h3,h4,p{
+    color: #303033;
+}
+.sign-up-container h4,p{
+    color: white;
+}
